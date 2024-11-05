@@ -6,8 +6,8 @@ server:
 
 spring:
   datasource:
-#    url: jdbc:postgresql://192.168.31.176:5432/amigoscode
-    url: jdbc:postgresql://postgres:5432/amigoscode
+    url: jdbc:postgresql://192.168.31.176:5432/amigoscode
+#    url: jdbc:postgresql://postgres:5432/amigoscode
     username: amigoscode
     password: password
 
